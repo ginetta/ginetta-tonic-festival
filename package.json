@@ -30,7 +30,7 @@
     "@commitlint/config-conventional": "^19.7.1",
     "husky": "^9.1.7",
     "prettier": "^3.4.2",
-    "wrangler": "3.107.2"
+    "wrangler": "3.111.0"
   },
   "packageManager": "yarn@4.6.0",
   "engines": {
