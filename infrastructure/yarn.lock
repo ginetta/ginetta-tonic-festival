@@ -487,18 +487,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@pulumi/cloudflare@npm:5.49.0":
-  version: 5.49.0
-  resolution: "@pulumi/cloudflare@npm:5.49.0"
+"@pulumi/cloudflare@npm:5.49.1":
+  version: 5.49.1
+  resolution: "@pulumi/cloudflare@npm:5.49.1"
   dependencies:
     "@pulumi/pulumi": "npm:^3.142.0"
-  checksum: 10c0/0947c99e0e61b89b6f2ee776520d4b3bacf063382af35fb1b8e65e01b9fcc34486dc0ed31029b21974a666320b60424010fde8807e2b0cb4f5d44fd197fb7315
+  checksum: 10c0/46e8e8fd5d6fdbfea7d99d547f49d545a1d662e87d98d9888916b916f93e29449087c8b09d1b6e7cfb8a43f4198d42c89353468d507ba8854023cc6a76c0b66f
   languageName: node
   linkType: hard
 
-"@pulumi/pulumi@npm:3.148.0":
-  version: 3.148.0
-  resolution: "@pulumi/pulumi@npm:3.148.0"
+"@pulumi/pulumi@npm:3.154.0":
+  version: 3.154.0
+  resolution: "@pulumi/pulumi@npm:3.154.0"
   dependencies:
     "@grpc/grpc-js": "npm:^1.10.1"
     "@logdna/tail-file": "npm:^2.0.6"
@@ -510,7 +510,6 @@ __metadata:
     "@opentelemetry/resources": "npm:^1.28"
     "@opentelemetry/sdk-trace-base": "npm:^1.28"
     "@opentelemetry/sdk-trace-node": "npm:^1.28"
-    "@opentelemetry/semantic-conventions": "npm:^1.28"
     "@pulumi/query": "npm:^0.3.0"
     "@types/google-protobuf": "npm:^3.15.5"
     "@types/semver": "npm:^7.5.6"
@@ -538,7 +537,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/29f7807ce7340e35fa3bb9060ab1ecaf63faf677a05103b32227612b096648a4301cbfa39f527e0687fced567d89ceb22a7eadc1486d4a8df7c20b6be98edeb2
+  checksum: 10c0/7be223977a889c3692a38396f1a9133c0a0290a5ea97c22d8aadad0a291d484be7da2306c10f356b54813f1a2760eb157e2edb2eb5103ddeb99b1563eff0efc6
   languageName: node
   linkType: hard
 
@@ -730,12 +729,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.13.1":
-  version: 22.13.1
-  resolution: "@types/node@npm:22.13.1"
+"@types/node@npm:22.13.10":
+  version: 22.13.10
+  resolution: "@types/node@npm:22.13.10"
   dependencies:
     undici-types: "npm:~6.20.0"
-  checksum: 10c0/d4e56d41d8bd53de93da2651c0a0234e330bd7b1b6d071b1a94bd3b5ee2d9f387519e739c52a15c1faa4fb9d97e825b848421af4b2e50e6518011e7adb4a34b7
+  checksum: 10c0/a3865f9503d6f718002374f7b87efaadfae62faa499c1a33b12c527cfb9fd86f733e1a1b026b80c5a0e4a965701174bc3305595a7d36078aa1abcf09daa5dee9
   languageName: node
   linkType: hard
 
@@ -1226,9 +1225,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ginetta-tonic-festival@workspace:."
   dependencies:
-    "@pulumi/cloudflare": "npm:5.49.0"
-    "@pulumi/pulumi": "npm:3.148.0"
-    "@types/node": "npm:22.13.1"
+    "@pulumi/cloudflare": "npm:5.49.1"
+    "@pulumi/pulumi": "npm:3.154.0"
+    "@types/node": "npm:22.13.10"
   languageName: unknown
   linkType: soft
 
